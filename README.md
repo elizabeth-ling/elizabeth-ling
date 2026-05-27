@@ -1,7 +1,7 @@
 hi! i'm elizabeth
 
 currently...
-- studying computer science @ uaterloo
+- studying cs @ uwaterloo
 - infra and devops @ rich media 
 - learning about what makes systems reliable, teams effective, and tools actually pleasant to use!
 
