@@ -1,4 +1,4 @@
-hi! i'm elizabeth
+**hi! i'm elizabeth**
 
 currently...
 - studying cs @ uwaterloo
@@ -10,7 +10,7 @@ excited about...
 - cultivating potential in others
 - people who take the weird and silly seriously
 
-always looking to befriend people who are as playful as they are hardworking
+always looking to befriend people who are as playful as they are hardworking ☺︎
 
 ```
                                \\\\\       \\\\\
