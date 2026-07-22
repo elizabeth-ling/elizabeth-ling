@@ -2,8 +2,8 @@
 
 currently...
 - studying cs @ uwaterloo
-- infra and devops @ rich media 
-- learning about what makes systems reliable, teams effective, and tools actually pleasant to use!
+- swe @ rich media
+- learning about what makes systems reliable, teams effective, and tools pleasant to use!
 
 excited about...
 - hosting events and building community
