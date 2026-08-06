@@ -12,7 +12,7 @@ excited about...
 
 always looking to befriend people who are as playful as they are hardworking ☺︎
 
-see more about me [here](elizabeth-ling.com)
+see more about me [here](https://www.elizabeth-ling.com/)
 
 ```
                                \\\\\       \\\\\
